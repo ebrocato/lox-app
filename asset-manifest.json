@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1237fb3.chunk.css",
+    "main.js": "/static/js/main.70b338e7.chunk.js",
+    "main.js.map": "/static/js/main.70b338e7.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.bbcd3f81.chunk.js": "/static/js/2.bbcd3f81.chunk.js",
+    "static/js/2.bbcd3f81.chunk.js.map": "/static/js/2.bbcd3f81.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9e234e07378cef3d4e6c97c37a96cff3.js": "/precache-manifest.9e234e07378cef3d4e6c97c37a96cff3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e1237fb3.chunk.css.map": "/static/css/main.e1237fb3.chunk.css.map",
+    "static/media/fish-coral.jpg": "/static/media/fish-coral.33f8c148.jpg",
+    "static/media/ocean.jpg": "/static/media/ocean.7dd3dad6.jpg",
+    "static/media/women-fish.jpg": "/static/media/women-fish.68e18faf.jpg"
+  }
+}

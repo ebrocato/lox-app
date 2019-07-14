@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "138f2ab8c1dfe8d0cc7429884d3a0ae0",
+    "revision": "a59336d4fd96d1685a193ecbd8a85186",
     "url": "/lox-app/index.html"
   },
   {
-    "revision": "16c662a1c3d6d4e8a58e",
-    "url": "/lox-app/static/css/main.2115b983.chunk.css"
+    "revision": "57cf2f3c99fe13e4a9a2",
+    "url": "/lox-app/static/css/main.552d3729.chunk.css"
   },
   {
     "revision": "efc3d230fd1e1b3caa34",
     "url": "/lox-app/static/js/2.bbcd3f81.chunk.js"
   },
   {
-    "revision": "16c662a1c3d6d4e8a58e",
-    "url": "/lox-app/static/js/main.70b338e7.chunk.js"
+    "revision": "57cf2f3c99fe13e4a9a2",
+    "url": "/lox-app/static/js/main.536dc566.chunk.js"
   },
   {
     "revision": "75456e6d37494ab9a8bc",

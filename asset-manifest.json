@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lox-app/static/css/main.552d3729.chunk.css",
-    "main.js": "/lox-app/static/js/main.536dc566.chunk.js",
-    "main.js.map": "/lox-app/static/js/main.536dc566.chunk.js.map",
+    "main.css": "/lox-app/static/css/main.c8e4ff0d.chunk.css",
+    "main.js": "/lox-app/static/js/main.efaf3f3e.chunk.js",
+    "main.js.map": "/lox-app/static/js/main.efaf3f3e.chunk.js.map",
     "runtime~main.js": "/lox-app/static/js/runtime~main.ee249330.js",
     "runtime~main.js.map": "/lox-app/static/js/runtime~main.ee249330.js.map",
     "static/js/2.bbcd3f81.chunk.js": "/lox-app/static/js/2.bbcd3f81.chunk.js",
     "static/js/2.bbcd3f81.chunk.js.map": "/lox-app/static/js/2.bbcd3f81.chunk.js.map",
     "index.html": "/lox-app/index.html",
-    "precache-manifest.12b89c080b8ee353b283d2f7addaae96.js": "/lox-app/precache-manifest.12b89c080b8ee353b283d2f7addaae96.js",
+    "precache-manifest.68c5caedb010690b99bd03e5f8bf8a1f.js": "/lox-app/precache-manifest.68c5caedb010690b99bd03e5f8bf8a1f.js",
     "service-worker.js": "/lox-app/service-worker.js",
-    "static/css/main.552d3729.chunk.css.map": "/lox-app/static/css/main.552d3729.chunk.css.map",
+    "static/css/main.c8e4ff0d.chunk.css.map": "/lox-app/static/css/main.c8e4ff0d.chunk.css.map",
     "static/media/fish-coral.jpg": "/lox-app/static/media/fish-coral.33f8c148.jpg",
     "static/media/ocean.jpg": "/lox-app/static/media/ocean.7dd3dad6.jpg",
     "static/media/women-fish.jpg": "/lox-app/static/media/women-fish.68e18faf.jpg"

@@ -27,9 +27,10 @@ export default class Board extends React.Component {
     return(
       <>
         <div className="header-parent">
+          <h1 className="header">lox</h1>
           <div className="header-links"><div className="header-child">BUBBLES</div><div className="header-child">HOT TROPICS</div><div className="header-child">WHALE TALES</div><div className="header-child">THE PLASTIC PROBLEM</div></div>
           <div className="header-content">
-            <h1 className="header">lox</h1>
+            
           </div>
         </div>
         <section className="hero-section">

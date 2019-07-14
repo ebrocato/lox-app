@@ -21,16 +21,18 @@
   
   background: #fff200;
   color: #4c4e4d;
-  width: 12%;
-  margin-top: 0;
+  width: 34%;
+  /* margin-top: 0; */
   height: 75px;
-  font-size: 60px;
+  font-size: 72px;
   font-family: 'Lobster', cursive;
   display: inline-block;
   text-align: center;
   /* padding-top: -90px; */
-  margin-top: -36px;
+  margin-top: -29px;
   padding-bottom: 10px;
+  max-width: 130px;
+  margin-left: -85px;
   
 
   

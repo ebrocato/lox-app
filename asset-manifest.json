@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1237fb3.chunk.css",
-    "main.js": "/static/js/main.70b338e7.chunk.js",
-    "main.js.map": "/static/js/main.70b338e7.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.bbcd3f81.chunk.js": "/static/js/2.bbcd3f81.chunk.js",
-    "static/js/2.bbcd3f81.chunk.js.map": "/static/js/2.bbcd3f81.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9e234e07378cef3d4e6c97c37a96cff3.js": "/precache-manifest.9e234e07378cef3d4e6c97c37a96cff3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e1237fb3.chunk.css.map": "/static/css/main.e1237fb3.chunk.css.map",
-    "static/media/fish-coral.jpg": "/static/media/fish-coral.33f8c148.jpg",
-    "static/media/ocean.jpg": "/static/media/ocean.7dd3dad6.jpg",
-    "static/media/women-fish.jpg": "/static/media/women-fish.68e18faf.jpg"
+    "main.css": "%20//ebrocato.github.io/lox-app/static/css/main.e1237fb3.chunk.css",
+    "main.js": "%20//ebrocato.github.io/lox-app/static/js/main.70b338e7.chunk.js",
+    "main.js.map": "%20//ebrocato.github.io/lox-app/static/js/main.70b338e7.chunk.js.map",
+    "runtime~main.js": "%20//ebrocato.github.io/lox-app/static/js/runtime~main.d5a7ea1f.js",
+    "runtime~main.js.map": "%20//ebrocato.github.io/lox-app/static/js/runtime~main.d5a7ea1f.js.map",
+    "static/js/2.bbcd3f81.chunk.js": "%20//ebrocato.github.io/lox-app/static/js/2.bbcd3f81.chunk.js",
+    "static/js/2.bbcd3f81.chunk.js.map": "%20//ebrocato.github.io/lox-app/static/js/2.bbcd3f81.chunk.js.map",
+    "index.html": "%20//ebrocato.github.io/lox-app/index.html",
+    "precache-manifest.ad35e092b0131723908e46cc0299a690.js": "%20//ebrocato.github.io/lox-app/precache-manifest.ad35e092b0131723908e46cc0299a690.js",
+    "service-worker.js": "%20//ebrocato.github.io/lox-app/service-worker.js",
+    "static/css/main.e1237fb3.chunk.css.map": "%20//ebrocato.github.io/lox-app/static/css/main.e1237fb3.chunk.css.map",
+    "static/media/fish-coral.jpg": "%20//ebrocato.github.io/lox-app/static/media/fish-coral.33f8c148.jpg",
+    "static/media/ocean.jpg": "%20//ebrocato.github.io/lox-app/static/media/ocean.7dd3dad6.jpg",
+    "static/media/women-fish.jpg": "%20//ebrocato.github.io/lox-app/static/media/women-fish.68e18faf.jpg"
   }
 }

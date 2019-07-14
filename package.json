@@ -1,7 +1,7 @@
 {
   "name": "lox-news-app",
   "version": "0.1.0",
-  "homepage": "https: //ebrocato.github.io/lox-app/",
+  "homepage": "https://ebrocato.github.io/lox-app/",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
